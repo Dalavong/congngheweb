@@ -6,7 +6,7 @@ let a = "Ting"
 console.log(a);
 //number
 var num = 1;
-console.log(typeof(num));
+console.log(typeof(num));  
 //const
 const con = "Wellcom";
 console.log(con);
@@ -81,7 +81,7 @@ json.forEach(
         }
     )
     //map
-const k = json.map((s) => (s.name + " wellcom"))
+const k = json.map((s) => (s.name + " wellcom")  bbf)
 console.log(k);
 //condition
 var cond = 1;
